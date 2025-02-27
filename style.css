@@ -14,10 +14,10 @@
 }
 
 @media screen and (max-width: 680px) {
-    body {
+    .container {
         width: 100%;
     }
-    
+
     
 }
 
