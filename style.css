@@ -13,6 +13,14 @@
     src: url('Passion_One/PassionOne-Regular.ttf');
 }
 
+@media screen and (max-width: 680px) {
+    body {
+        width: 100%;
+    }
+    
+    
+}
+
 header{
     background-color: black;
     color: white;
